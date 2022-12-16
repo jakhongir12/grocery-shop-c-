@@ -1,0 +1,13 @@
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.csproj.AssemblyReference.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project_1_Grocery_Store.Form1.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project_1_Grocery_Store.Form2.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project_1_Grocery_Store.Form3.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project_1_Grocery_Store.Properties.Resources.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.csproj.GenerateResource.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.csproj.CoreCompileInputs.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\bin\Debug\Project 1_Grocery Store.exe.config
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\bin\Debug\Project 1_Grocery Store.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\bin\Debug\Project 1_Grocery Store.pdb
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project1\Project 1_Grocery Store\Project 1_Grocery Store\obj\Debug\Project 1_Grocery Store.pdb

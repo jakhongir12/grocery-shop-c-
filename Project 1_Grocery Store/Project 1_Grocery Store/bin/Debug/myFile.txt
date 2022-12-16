@@ -1,0 +1,8 @@
+Potato:P_6718_o:2:Kg
+onions:o_1793_s:3:Kg
+apples:a_7223_s:4:Kg
+water 1 Liter:w_4978_r:7:Piece
+Orange:O_9506_e:6:Kg
+Coca cola:C_4335_a:21:Piece
+Pineapple:P_3892_e:23:Piece
+grapes:g_2079_s:30:Kg
